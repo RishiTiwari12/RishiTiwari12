@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RishiTiwari12
-- 👀 I’m interested in Software devlopment roles
-- 🌱 I’m currently learning data analytics ,Data Structures and Algorithms.
+- 👀 I’m interested in Data Analytics roles
+- 🌱 I’m skilled in Python,SQL,Power BI, Machine Learning, Excel
 - 💞️ I’m looking to collaborate on Machine Learning
 - 📫 How to reach me mail @tiwaririshi740@gmail.com
 
